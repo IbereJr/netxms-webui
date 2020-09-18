@@ -1,2 +1,2 @@
 # netxms-webui
-NetXMS WebUI 3.3.350
+NetXMS WebUI 3.5.90
